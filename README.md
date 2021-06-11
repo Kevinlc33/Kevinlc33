@@ -5,8 +5,8 @@ and I recently moved to the Seattle area. Reach out to me on [LinkedIn](https://
 
 Right now I am focused solely on getting a job, and mastering the languages and skills I know. However, I am bound and determined to work with computer vision one day - you never really stop being a photographer. 📸 
 
-While away from my computer I am an avid hiker🚶‍♂️, skier ⛷, pet lover 🐕🐈, wine🍷 and cheese🧀 snob, voracious verbivore📚( Wheel of Time, King Killer Chronicles, Lord of the Rings), 
-and padawan of the pun. There is usually music🎵 in the background. I am an Eagle Scout, Black Belt, and a child at heart...still trying to catch 'em all!
+While away from my computer I am an avid hiker 🚶‍♂️, skier ⛷, pet lover 🐕 🐈, wine 🍷 and cheese 🧀 snob, voracious verbivore 📚 ( Wheel of Time, King Killer Chronicles, Lord of the Rings), 
+and padawan of the pun. There is usually music 🎵 in the background. I am an Eagle Scout, Black Belt, and a child at heart...still trying to catch 'em all!
 
 ![](https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin&logoColor=white&color=0e76a8)
 
