@@ -8,7 +8,13 @@ Right now I am focused solely on getting a job, and mastering the languages and 
 While away from my computer I am an avid hiker 🚶‍♂️, skier ⛷, pet lover 🐕 🐈, wine 🍷 and cheese 🧀 snob, voracious verbivore 📚 ( Wheel of Time, King Killer Chronicles, Lord of the Rings), 
 and padawan of the pun. There is usually music 🎵 in the background. I am an Eagle Scout, Black Belt, and a child at heart...still trying to catch 'em all!
 
-![](https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin&logoColor=white&color=0e76a8)
+<div align="left">
+    <div>
+        <a href="https://www.linkedin.com/in/kevinlouisclark/">
+            <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
+    </div>
+</div>
+<br/><br/>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
