@@ -29,8 +29,8 @@ and padawan of the pun. There is usually music 🎵 in the background. I am an E
 ![](https://img.shields.io/badge/Javascript-Code-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/SQL-Tools-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HTML-Tools-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-Tools-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HTML-Tools-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS-Tools-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/React-Tools-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Redux-Tools-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Jest-Tools-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
