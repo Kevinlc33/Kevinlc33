@@ -37,6 +37,7 @@ and padawan of the pun. There is usually music 🎵 in the background. I am an E
 ![](https://img.shields.io/badge/Docker-Tools-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Redis-Tools-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Bash-Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Node-Tools-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlc33)](https://github.com/kevinlc33)
