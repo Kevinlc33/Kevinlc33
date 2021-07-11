@@ -41,11 +41,15 @@ and padawan of the pun. There is usually music 🎵 in the background. I am an E
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlc33)](https://github.com/kevinlc33)
 
-<a href="https://github.com/Kevinlc33/smart-brain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevinlc33&repo=smart-brain&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Kevinlc33/Smart-Brain-2.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevinlc33&repo=Smart-Brain-2.0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 <a href="https://github.com/Kevinlc33/FAD_capstone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevinlc33&repo=FAD_capstone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
+<a href="https://github.com/Kevinlc33/RoboFriends">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevinlc33&repo=/RoboFriendse&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+    
 
 
