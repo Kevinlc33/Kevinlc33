@@ -28,18 +28,24 @@ and padawan of the pun. There is usually music 🎵 in the background. I am an E
 ![](https://img.shields.io/badge/Java-Code-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Javascript-Code-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/SQL-Tools-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Mongoose-Tools-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Express-Tools-informational?style=flat&logo=expresse.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/React-Tools-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Node-Tools-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/HTML-Tools-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-Tools-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/React-Tools-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Redux-Tools-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JWT-Tools-informational?style=flat&logo=jsonwebtokens&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/SQL-Tools-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
+
+
 ![](https://img.shields.io/badge/Jest-Tools-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Docker-Tools-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Redis-Tools-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Bash-Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Node-Tools-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Express-Tools-informational?style=flat&logo=expresse.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/JWT-Tools-informational?style=flat&logo=jsonwebtokens&logoColor=white&color=2bbc8a)
+
+
 
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlc33)](https://github.com/kevinlc33)
