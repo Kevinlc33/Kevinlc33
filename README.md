@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello, I’m Kevin! I have a Master's in Software Engineering from the University of West Florida, 
+Hi, I’m Kevin! I have a Master's in Software Engineering from the University of West Florida, 
 and I recently moved to the Seattle area. Reach out to me on [LinkedIn](https://www.linkedin.com/in/kevinlouisclark/) if you would like to connect.
 
 Right now I am focused solely on getting a job, and mastering the languages and skills I know - mostly related to the MERN stack. However, I am bound and determined to work with computer vision one day - you never really stop being a photographer. 📸 
