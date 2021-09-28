@@ -33,7 +33,7 @@ and padawan of the pun. There is usually music 🎵 in the background. I am an E
 ![](https://img.shields.io/badge/Express.js-Tools-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/React-Tools-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Node.js-Tools-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badgeGraphQL-Tools-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GraphQL-Tools-informational?style=flat&logo=apollographql&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/HTML-Tools-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-Tools-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
