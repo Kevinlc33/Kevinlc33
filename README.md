@@ -1,9 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi, I’m Kevin! I'm looking to break into the tech industry! I have a Master's in Software Engineering from the University of West Florida, 
+Hello, I’m Kevin! I have a Master's in Software Engineering from the University of West Florida, 
 and I recently moved to the Seattle area. Reach out to me on [LinkedIn](https://www.linkedin.com/in/kevinlouisclark/) if you would like to connect.
 
-Right now I am focused solely on getting a job, and mastering the languages and skills I know. However, I am bound and determined to work with computer vision one day - you never really stop being a photographer. 📸 
+Right now I am focused solely on getting a job, and mastering the languages and skills I know - mostly related to the MERN stack. However, I am bound and determined to work with computer vision one day - you never really stop being a photographer. 📸 
 
 While away from my computer I am an avid hiker 🚶‍♂️, skier ⛷, pet lover 🐕 🐈, wine 🍷 and cheese 🧀 snob, voracious verbivore 📚 ( Wheel of Time, King Killer Chronicles, Lord of the Rings), 
 and padawan of the pun. There is usually music 🎵 in the background. I am an Eagle Scout, Black Belt, and a child at heart...still trying to catch 'em all!
